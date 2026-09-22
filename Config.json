@@ -1,0 +1,24 @@
+{
+  "game_info": {
+    "url": "https://play-sunwin.agency",
+    "current_session": "3260785",
+    "last_session": "3260784",
+    "last_result": "Tài",
+    "dice_history": [
+      [3, 4, 6],
+      [2, 2, 1]
+    ]
+  },
+  "strategy_params": {
+    "analysis_window": 10,
+    "bet_threshold": 5,
+    "target": "Tài",
+    "stop_loss": 3,
+    "stop_win": 5
+  },
+  "system_status": {
+    "auto_bet_enabled": false,
+    "last_updated": "",
+    "last_prediction": ""
+  }
+}
